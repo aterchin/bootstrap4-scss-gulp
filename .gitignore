@@ -1,0 +1,7 @@
+node_modules
+
+# Ignore common custom files and directories
+.DS_Store
+.sass-cache
+*.map
+*.backup

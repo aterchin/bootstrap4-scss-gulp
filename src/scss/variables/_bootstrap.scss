@@ -1,0 +1,40 @@
+// Copy what you want to override from node_modules/bootstrap/scss/variables
+
+// Breakpoints
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+);
+
+// Define the maximum width of `.container` for different screen sizes.
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px
+);
+
+//$grid-columns: 12;
+//$grid-gutter-width: 30px;
+
+// Colors
+
+$blue: #007bff;
+
+//$primary;
+//$secondary;
+//$light;
+//$dark;
+
+//$body-bg;
+$body-color: #444;
+
+// Anchors
+
+//$link-color
+//$link-decoration
+//$link-hover-color
+//$link-hover-decoration

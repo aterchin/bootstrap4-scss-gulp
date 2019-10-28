@@ -1,0 +1,34 @@
+{
+  "name": "bootstrap4-scss-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.0",
+    "cssnext": "^1.8.4",
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sass-glob": "^1.1.0",
+    "gulp-scss-lint": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-easy-import": "^3.0.0",
+    "postcss-preset-env": "^6.7.0",
+    "postcss-scss": "^2.0.0"
+  }
+}
